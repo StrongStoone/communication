@@ -10,7 +10,7 @@ dataLED = 11
 # Port Number for Buzzer
 buzzer_pin = 18
 
-HOST = #(Android Phone's IP address)
+HOST = ''
 PORT = 10000 # Port Number
 
 
